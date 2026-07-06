@@ -1,1 +1,50 @@
-Hola este es el archivo de planificacion del blog de ingles para desarrolladores 
+BLOG DE INGLÉS PARA DESARROLLADORES
+
+LINK TRELLO:  https://trello.com/invite/b/6a4c120e218a08f73087f105/ATTIffcc0506080ff5c6c656f36d38e70198FA4AD3FE/blog-ingles-para-desarrolladores
+
+1. Definición del proyecto y necesidades
+Crear un blog de inglés para desarrolladores (enfocado en vocabulario técnico, entrevistas, documentación, etc.)
+Necesidades:
+* Aprender inglés aplicado a tecnología
+* Plataforma accesible (web)
+* Contenido claro y práctico
+* Organización de temas (frontend, backend, entrevistas, etc.)
+
+2. Metas y objetivos
+Meta general: Desarrollar un blog funcional educativo
+Objetivos específicos:
+* Publicar mínimo 1 artículo por semana. 
+* Diseñar interfaz usable
+* Implementar navegación clara
+* Integrar contenido técnico en inglés
+
+3. Ciclo de vida del desarrollo (6 fases)
+- Planificación (1–2 semanas)
+Objetivo: definir alcance, costos, tiempos
+Recursos: Scrum Master-Carol P, herramientas (Trello, docs)
+Entregable: guia del usuario (roadmap) + backlog inicial
+
+- Análisis (1–2 semanas)
+Objetivo: definir requisitos funcionales y técnicos
+Recursos: analista, equipo dev, entrevistas
+Entregable: lista de requerimientos claros
+
+- Diseño (1–2 semanas)
+Objetivo: arquitectura, UI/UX
+Recursos: diseñador, dev frontend, Figma
+Entregable: prototipos y estructura del sistema
+
+- Implementación (2–4 semanas)
+Objetivo: desarrollar el software
+Recursos: desarrolladores, GitHub
+Entregable: código funcional
+
+- Pruebas e integración (1–2 semanas)
+Objetivo: detectar errores y unir módulos
+Recursos: testers, herramientas testing
+Entregable: sistema estable y sin fallos críticos
+
+- Mantenimiento (cada semana)
+Objetivo: mejoras, soporte, corrección de bugs
+Recursos: equipo soporte/dev
+Entregable: sistema actualizado
